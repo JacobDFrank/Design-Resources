@@ -32,6 +32,7 @@
 ## Sites
 - CSSDesignAwards
 - Muzli
+- [designresources.party](http://designresources.party/)
 ## Email Newsletters
 - Webdesigner News
 - Kevin Rose email

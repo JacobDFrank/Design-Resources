@@ -34,11 +34,11 @@
 - CSSDesignAwards
 - Muzli
 ## Email Newsletters
-- Webdesigner News
-- Kevin Rose email
-- Subtraction
-- OffScreen Dispatch
-- Your Majesty Co. '10 Things'
+- [Webdesigner News](https://www.webdesignernews.com/)
+- [Kevin Rose email](https://www.kevinrose.com/)
+- [Subtraction](https://www.subtraction.com/2007/09/13/from-me-to-y/)
+- [OffScreen Dispatch](https://www.offscreenmag.com/dispatch)
+- [Your Majesty Co. '10 Things'](https://medium.com/your-majesty-co/tagged/10things)
 - Invision (Meh)
 - [UI Movement](https://letterfuel.com/ui-movement/issues/top-5-ui-animations-this-week-8/)
 - [MG Siegler](http://newsletter.mgsiegler.com/)

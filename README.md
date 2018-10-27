@@ -1,5 +1,5 @@
 # Design-Resources I use to stay up to date as a designer
-#### List of design resources created by me for anyone that might want to see it
+#### List of design resources created by me for anyone that might want to see it. Apologies as most of these do not have links.
 
 ## Books - Best thing you can learn from usually
 - About Face by Cooper

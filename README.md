@@ -30,9 +30,6 @@
 - [twitter, I follow some cool folks you might want to](http://twitter.com/jacobdfrank)
 - product hunt
 - dribbble
-## Sites
-- CSSDesignAwards
-- Muzli
 ## Email Newsletters
 - [Webdesigner News](https://www.webdesignernews.com/)
 - [Kevin Rose email](https://www.kevinrose.com/)
@@ -44,12 +41,14 @@
 - [MG Siegler](http://newsletter.mgsiegler.com/)
 - If there's an agency or company you like look into their socials too
 - [Neilson Norman](http://www.nngroup.com/articles/subscribe/)
-## Other Things helpful and relevant to design
+## Sites
 - hacker news
 - Larry Cuban Education Design Blog
 - The Verge
 - NYC Opportunity
 - Code For America
+- CSSDesignAwards
+- Muzli
 - Just read design stuff on medium and it'll recommend you things. You can look at [my follower's too](https://medium.com/@JacobDFrank/following). To name a few..
   - https://medium.freecodecamp.org/
   - https://uxdesign.cc/

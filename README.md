@@ -41,6 +41,8 @@
 - [MG Siegler](http://newsletter.mgsiegler.com/)
 - If there's an agency or company you like look into their socials too
 - [Neilson Norman](http://www.nngroup.com/articles/subscribe/)
+- [Visual Soldiers' Armory](https://armory.visualsoldiers.com/)For new tools that could be integral to your process.
+- [Hey Designer](https://heydesigner.com/newsletter/) another great general newsletter for product people and designers.
 ## Sites
 - hacker news
 - Larry Cuban Education Design Blog

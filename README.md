@@ -64,4 +64,15 @@
 - Design Details (Great Interviews)
 - High Resolution (Even better Interviews)
 - Product Breakfast Club
-
+# Tools
+- [MindNode](https://mindnode.com/), a great mindmapping tool
+- [Creating easy simple diagrams](https://www.diagram.codes/)
+- [Whimsical](https://whimsical.com/) for flow charts and mind maps between people
+- pencil and paper, I like the [panobook](https://www.studioneat.com/products/panobook) a lot
+- Understand the structure of a website through a generated site-map using[VisualSiteMaps](https://visualsitemaps.com/)
+- [Cleanshot](https://getcleanshot.com/), an easy and better alternative to taking screenshots
+- [Pixelmator Pro](https://www.pixelmator.com/), a better alternative to photoshop when you don't want to spend hours learning to do something simple. 
+- [Sip](https://sipapp.io/), the best color picker ever
+- [Contrast](https://usecontrast.com/), the best contrast checker out there
+- Figma, Xd, Sketch. I prefer Figma for meetings and plugin support. Sketch has great plugins too and an amazing community. Xd works well with all your adobe tools.
+- [Metatags.io](https://metatags.io/), an easy and pretty metatag checker and preview site.

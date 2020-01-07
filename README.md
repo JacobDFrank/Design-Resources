@@ -60,6 +60,7 @@
 - Creative Mornings (Meh, but can be good)
 - TED
 - 99U
+- [Design Conferences](https://www.alldesignconferences.com/)
 # Podcasts & Video Series
 - 99% Invisble
 - [Getting Real](https://www.youtube.com/channel/UCdx5Dk3EWTe2i8YDA7bfl6g)

@@ -56,7 +56,7 @@
   - https://uxdesign.cc/
   - https://uxplanet.org/
 - Julie Zhuo Blog (Product Design VP @ Facebook)
-## Events
+## Conferences
 - Creative Mornings (Meh, but can be good)
 - TED
 - 99U

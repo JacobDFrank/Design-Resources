@@ -67,6 +67,8 @@
 - Design Details (Great Interviews)
 - High Resolution (Even better Interviews)
 - Product Breakfast Club
+# Portfolio tools
+- [Brian Lovin, a great product designers notes on best portfolios](https://brianlovin.com/overthought/product-design-portfolios)
 # Tools
 - [MindNode](https://mindnode.com/), a great mindmapping tool
 - [Creating easy simple diagrams](https://www.diagram.codes/)

@@ -55,7 +55,7 @@
   - https://medium.freecodecamp.org/
   - https://uxdesign.cc/
   - https://uxplanet.org/
-- Julie Zhuo Blog (Product Design VP @ Facebook)
+- Julie Zhuo Blog (Former Product Design VP @ Facebook)
 ## Events
 - Creative Mornings (Meh, but can be good)
 - TED

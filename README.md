@@ -32,26 +32,21 @@
 - dribbble
 ## Email Newsletters
 - [Webdesigner News](https://www.webdesignernews.com/)
-- [Kevin Rose email](https://www.kevinrose.com/)
 - [Subtraction](https://www.subtraction.com/2007/09/13/from-me-to-y/)
 - [OffScreen Dispatch](https://www.offscreenmag.com/dispatch)
 - [Your Majesty Co. '10 Things'](http://10things.yourmajesty.co)
-- Invision (Meh)
 - [UI Movement](https://letterfuel.com/ui-movement/issues/top-5-ui-animations-this-week-8/)
-- [MG Siegler](http://newsletter.mgsiegler.com/)
 - If there's an agency or company you like look into their socials too
 - [Neilson Norman](http://www.nngroup.com/articles/subscribe/)
 - [Visual Soldiers' Armory](https://armory.visualsoldiers.com/)For new tools that could be integral to your process.
 - [Hey Designer](https://heydesigner.com/newsletter/) another great general newsletter for product people and designers.
 ## Sites
-- hacker news
-- Larry Cuban Education Design Blog
 - The Verge
 - NYC Opportunity
 - Code For America
 - CSSDesignAwards
 - Muzli
-- Just read design stuff on medium and it'll recommend you things. You can look at [my follower's too](https://medium.com/@JacobDFrank/following). To name a few..
+few..
   - https://medium.freecodecamp.org/
   - https://uxdesign.cc/
   - https://uxplanet.org/
